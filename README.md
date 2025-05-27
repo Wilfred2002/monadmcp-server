@@ -5,8 +5,6 @@
 [![MCP](https://img.shields.io/badge/MCP-Protocol-green?style=for-the-badge)](https://modelcontextprotocol.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-> **Created by Wilfred Naraga** - This is my first project built to interact with the Monad testnet, combining the power of AI assistants with blockchain technology through the Model Context Protocol.
-
 This is my first Web3 Project, built mainly for the Monad Testnet. I've built a Model Context Protocol (MCP) server that enables AI to interact with the Monad testnet and Ethereum blockchain. This server currently provides a simple suite of tools for blockchain operations and developer utilities. More tools are currently in development.
 
 ## 📋 Table of Contents
