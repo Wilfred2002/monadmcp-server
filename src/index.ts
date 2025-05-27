@@ -1,9 +1,3 @@
-/**
- * Monad MCP Server
- * 
- * A comprehensive Model Context Protocol (MCP) server that provides
- * tools for interacting with the Monad blockchain testnet.
- */
 
 // Import necessary dependencies
 import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
@@ -38,8 +32,8 @@ const publicClient = createPublicClient({
 
 // Common contract addresses on Monad testnet
 const COMMON_CONTRACTS = {
-    WMON: "0x...", // Add actual WMON address
-    // Add other common contract addresses
+    WMON: "0x760afe86e5de5fa0ee542fc7b7b713e1c5425701",
+    //adding more contracts soon
 };
 
 // Initialize the MCP server
